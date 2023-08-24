@@ -1,7 +1,5 @@
 # PortfolioBuilder
 
-NOTE - PortfolioBuilder.ipynb is old version - use ChatGPT Assignment.ipynb
-
 The purpose of this code is to demonstrate skills in data manipulation,
 data analysis and data visualisation.
 
